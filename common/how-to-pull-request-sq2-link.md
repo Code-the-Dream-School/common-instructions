@@ -13,6 +13,7 @@
 ![Create Pull Request: Step 3](../assets/create-pull-request/step-3.jpg)
 
 ## Step 4: Select the "Base" repository dropdown and choose your forked repository
+Be sure that you have **_your GitHub username_** selected as the base repository and NOT the Code-the-Dream-School repository!
 
 ![Create Pull Request: Step 4](../assets/create-pull-request/step-4.jpg)
 
@@ -26,7 +27,7 @@
 
 ## Next Step
 
-Copy the URL to the pull request you just created and follow this tutorial for submitting your assignment: [View instructions](../common/how-to-submit-squibby2.md)
+Copy the URL to the pull request you just created and submit your assignment using your Assignment Submission Form.
 
 ---
 
